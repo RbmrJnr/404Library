@@ -19,7 +19,7 @@ public class BookOutputStream extends OutputStream{
     @Override
     public void write(int b) throws IOException {
         destino.write(b);
-    } // metodo que o OutputStream obriga a implementar, ele serve para escrever para escrever os bytes.
+    } // metodo que o OutputStream obriga a implementar, ele serve para escrever os bytes.
 
     public void enviarLivros() throws IOException{
         for(int i = 0; i < qnt; i++){
