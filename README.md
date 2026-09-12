@@ -32,15 +32,12 @@ javac $(find br -name "*.java")
   Servidor:
    ```
   java br.ufc.qx404library.network.tcp.ServerSerializable
-
-
   ```
   
 
   Cliente:
   ```
   java br.ufc.qx404library.network.tcp.Client
-
   ```
 
 # Multicast
@@ -48,15 +45,12 @@ javac $(find br -name "*.java")
   Servidor:
    ```
   java br.ufc.qx404library.network.multicast.MulticastServer
-
-
   ```
   
 
   Cliente:
   ```
   java br.ufc.qx404library.network.multicast.MulticastClient
-
   ```
 
 
