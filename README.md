@@ -8,9 +8,7 @@ O sistema demonstra conceitos de serialização de objetos, streams personalizad
 ---
 
 ## Tree
-
-´´´
-src/
+```c/
 └── br/ufc/qx404library/
 ├── model/         # Classes POJO (Book, User)
 ├── io/            # Streams personalizados
@@ -19,7 +17,7 @@ src/
 │    └── multicast # Cliente/Servidor Multicast com threads
 ├── service/       # Serviços auxiliares
 └── Main.java      # Classe principal
-´´´
+```
 
 ---
 
