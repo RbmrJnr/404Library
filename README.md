@@ -1,5 +1,6 @@
 # 404Library - Sistema Distribuído de Biblioteca
 
 
-Sistema distribuído para gerenciamento de livros e usuários, utilizando comunicação via TCP e Multicast. 
-Implementa serialização de objetos, streams personalizados e notificações em tempo real.
+Este projeto foi desenvolvido como parte da disciplina de Sistemas Distribuídos.
+O objetivo é implementar um sistema de biblioteca com comunicação distribuída, utilizando TCP e Multicast.
+
