@@ -8,7 +8,8 @@ O sistema demonstra conceitos de serialização de objetos, streams personalizad
 ---
 
 ## Tree
-```c/
+```
+src/
 └── br/ufc/qx404library/
 ├── model/         # Classes POJO (Book, User)
 ├── io/            # Streams personalizados
